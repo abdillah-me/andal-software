@@ -1,4 +1,4 @@
-# andal-software
+# Andal-software
 Diberikan sebuah array integer nums yang terdiri dari elemen-elemen unik, kembalikan semua
 subset yang mungkin (power set).
 Set solusi tidak boleh berisi subset yang duplikat. Kembalikan solusinya dalam urutan apa pun.
